@@ -19,6 +19,44 @@
 		F6D7A5F52F935492002C716C /* Canister.tsx in Resources */ = {isa = PBXBuildFile; fileRef = F6D7A5F12F935491002C716C /* Canister.tsx */; };
 		F6D7A5F62F935492002C716C /* AppLogo.tsx in Resources */ = {isa = PBXBuildFile; fileRef = F6D7A5F22F935491002C716C /* AppLogo.tsx */; };
 		F6D7A5F72F935492002C716C /* HomeView.tsx in Resources */ = {isa = PBXBuildFile; fileRef = F6D7A5F32F935492002C716C /* HomeView.tsx */; };
+		F6DA72D32F935E440035EEF7 /* Roll.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6DA72CB2F935E440035EEF7 /* Roll.swift */; };
+		F6DA72D42F935E440035EEF7 /* SketchButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6DA72D12F935E440035EEF7 /* SketchButton.swift */; };
+		F6DA72D52F935E440035EEF7 /* AppLogoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6DA72CF2F935E440035EEF7 /* AppLogoView.swift */; };
+		F6DA72D62F935E440035EEF7 /* CanisterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6DA72D02F935E440035EEF7 /* CanisterView.swift */; };
+		F6DA72D72F935E440035EEF7 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6DA72CD2F935E440035EEF7 /* HomeViewController.swift */; };
+		F6DA72D92F935ECE0035EEF7 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6DA72D82F935ECE0035EEF7 /* Theme.swift */; };
+		F6DA72DB2F939B950035EEF7 /* Photo.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6DA72DA2F939B950035EEF7 /* Photo.swift */; };
+		F6DA72DE2F939BAE0035EEF7 /* RollDetailHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6DA72DD2F939BAE0035EEF7 /* RollDetailHeaderView.swift */; };
+		F6DA72DF2F939BAE0035EEF7 /* PhotoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6DA72DC2F939BAE0035EEF7 /* PhotoCell.swift */; };
+		F6DA72E12F939BD60035EEF7 /* RollDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6DA72E02F939BD60035EEF7 /* RollDetailViewController.swift */; };
+		F6DA73132F939DF10035EEF7 /* BundleImageLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6DA73122F939DF10035EEF7 /* BundleImageLoader.swift */; };
+		F6DA732C2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_24.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F6DA732B2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_24.jpg */; };
+		F6DA732D2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F6DA731A2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_7.jpg */; };
+		F6DA732E2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_20.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F6DA73272F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_20.jpg */; };
+		F6DA732F2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_21.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F6DA73282F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_21.jpg */; };
+		F6DA73302F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F6DA731C2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_9.jpg */; };
+		F6DA73312F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_19.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F6DA73262F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_19.jpg */; };
+		F6DA73322F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_23.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F6DA732A2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_23.jpg */; };
+		F6DA73332F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_17.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F6DA73242F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_17.jpg */; };
+		F6DA73342F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F6DA73152F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_2.jpg */; };
+		F6DA73352F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F6DA73182F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_5.jpg */; };
+		F6DA73362F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F6DA73192F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_6.jpg */; };
+		F6DA73372F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F6DA731B2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_8.jpg */; };
+		F6DA73382F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F6DA73162F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_3.jpg */; };
+		F6DA73392F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F6DA73142F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_1.jpg */; };
+		F6DA733A2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F6DA731F2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_12.jpg */; };
+		F6DA733B2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F6DA73202F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_13.jpg */; };
+		F6DA733C2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F6DA731E2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_11.jpg */; };
+		F6DA733D2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_16.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F6DA73232F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_16.jpg */; };
+		F6DA733E2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F6DA731D2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_10.jpg */; };
+		F6DA733F2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_15.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F6DA73222F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_15.jpg */; };
+		F6DA73402F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_14.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F6DA73212F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_14.jpg */; };
+		F6DA73412F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_18.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F6DA73252F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_18.jpg */; };
+		F6DA73422F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F6DA73172F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_4.jpg */; };
+		F6DA73432F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_22.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F6DA73292F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_22.jpg */; };
+		F6DA73452F93A4260035EEF7 /* ContactSheetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6DA73442F93A4260035EEF7 /* ContactSheetViewController.swift */; };
+		F6DA73482F93A44B0035EEF7 /* DrawingOverlayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6DA73462F93A44B0035EEF7 /* DrawingOverlayView.swift */; };
+		F6DA73492F93A44B0035EEF7 /* FilmStrip135View.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6DA73472F93A44B0035EEF7 /* FilmStrip135View.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +95,44 @@
 		F6D7A5F12F935491002C716C /* Canister.tsx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Canister.tsx; sourceTree = "<group>"; };
 		F6D7A5F22F935491002C716C /* AppLogo.tsx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = AppLogo.tsx; sourceTree = "<group>"; };
 		F6D7A5F32F935492002C716C /* HomeView.tsx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = HomeView.tsx; sourceTree = "<group>"; };
+		F6DA72CB2F935E440035EEF7 /* Roll.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Roll.swift; sourceTree = "<group>"; };
+		F6DA72CD2F935E440035EEF7 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		F6DA72CF2F935E440035EEF7 /* AppLogoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppLogoView.swift; sourceTree = "<group>"; };
+		F6DA72D02F935E440035EEF7 /* CanisterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CanisterView.swift; sourceTree = "<group>"; };
+		F6DA72D12F935E440035EEF7 /* SketchButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SketchButton.swift; sourceTree = "<group>"; };
+		F6DA72D82F935ECE0035EEF7 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
+		F6DA72DA2F939B950035EEF7 /* Photo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Photo.swift; sourceTree = "<group>"; };
+		F6DA72DC2F939BAE0035EEF7 /* PhotoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoCell.swift; sourceTree = "<group>"; };
+		F6DA72DD2F939BAE0035EEF7 /* RollDetailHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RollDetailHeaderView.swift; sourceTree = "<group>"; };
+		F6DA72E02F939BD60035EEF7 /* RollDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RollDetailViewController.swift; sourceTree = "<group>"; };
+		F6DA73122F939DF10035EEF7 /* BundleImageLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BundleImageLoader.swift; sourceTree = "<group>"; };
+		F6DA73142F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2204_76_00002967_奥林巴斯练手卷_1.jpg"; sourceTree = "<group>"; };
+		F6DA73152F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2204_76_00002967_奥林巴斯练手卷_2.jpg"; sourceTree = "<group>"; };
+		F6DA73162F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2204_76_00002967_奥林巴斯练手卷_3.jpg"; sourceTree = "<group>"; };
+		F6DA73172F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2204_76_00002967_奥林巴斯练手卷_4.jpg"; sourceTree = "<group>"; };
+		F6DA73182F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2204_76_00002967_奥林巴斯练手卷_5.jpg"; sourceTree = "<group>"; };
+		F6DA73192F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2204_76_00002967_奥林巴斯练手卷_6.jpg"; sourceTree = "<group>"; };
+		F6DA731A2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2204_76_00002967_奥林巴斯练手卷_7.jpg"; sourceTree = "<group>"; };
+		F6DA731B2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2204_76_00002967_奥林巴斯练手卷_8.jpg"; sourceTree = "<group>"; };
+		F6DA731C2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2204_76_00002967_奥林巴斯练手卷_9.jpg"; sourceTree = "<group>"; };
+		F6DA731D2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2204_76_00002967_奥林巴斯练手卷_10.jpg"; sourceTree = "<group>"; };
+		F6DA731E2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2204_76_00002967_奥林巴斯练手卷_11.jpg"; sourceTree = "<group>"; };
+		F6DA731F2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2204_76_00002967_奥林巴斯练手卷_12.jpg"; sourceTree = "<group>"; };
+		F6DA73202F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2204_76_00002967_奥林巴斯练手卷_13.jpg"; sourceTree = "<group>"; };
+		F6DA73212F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_14.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2204_76_00002967_奥林巴斯练手卷_14.jpg"; sourceTree = "<group>"; };
+		F6DA73222F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_15.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2204_76_00002967_奥林巴斯练手卷_15.jpg"; sourceTree = "<group>"; };
+		F6DA73232F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_16.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2204_76_00002967_奥林巴斯练手卷_16.jpg"; sourceTree = "<group>"; };
+		F6DA73242F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_17.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2204_76_00002967_奥林巴斯练手卷_17.jpg"; sourceTree = "<group>"; };
+		F6DA73252F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_18.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2204_76_00002967_奥林巴斯练手卷_18.jpg"; sourceTree = "<group>"; };
+		F6DA73262F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_19.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2204_76_00002967_奥林巴斯练手卷_19.jpg"; sourceTree = "<group>"; };
+		F6DA73272F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_20.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2204_76_00002967_奥林巴斯练手卷_20.jpg"; sourceTree = "<group>"; };
+		F6DA73282F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_21.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2204_76_00002967_奥林巴斯练手卷_21.jpg"; sourceTree = "<group>"; };
+		F6DA73292F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_22.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2204_76_00002967_奥林巴斯练手卷_22.jpg"; sourceTree = "<group>"; };
+		F6DA732A2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_23.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2204_76_00002967_奥林巴斯练手卷_23.jpg"; sourceTree = "<group>"; };
+		F6DA732B2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_24.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2204_76_00002967_奥林巴斯练手卷_24.jpg"; sourceTree = "<group>"; };
+		F6DA73442F93A4260035EEF7 /* ContactSheetViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactSheetViewController.swift; sourceTree = "<group>"; };
+		F6DA73462F93A44B0035EEF7 /* DrawingOverlayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawingOverlayView.swift; sourceTree = "<group>"; };
+		F6DA73472F93A44B0035EEF7 /* FilmStrip135View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilmStrip135View.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +186,10 @@
 				F6D7A5BD2F934C34002C716C /* AppDelegate.swift */,
 				F6D7A5BF2F934C34002C716C /* SceneDelegate.swift */,
 				F6D7A5C12F934C34002C716C /* ViewController.swift */,
+				F6DA72D82F935ECE0035EEF7 /* Theme.swift */,
+				F6DA72CC2F935E440035EEF7 /* Models */,
+				F6DA72CE2F935E440035EEF7 /* ViewControllers */,
+				F6DA72D22F935E440035EEF7 /* Views */,
 				F6D7A5F22F935491002C716C /* AppLogo.tsx */,
 				F6D7A5F12F935491002C716C /* Canister.tsx */,
 				F6D7A5F32F935492002C716C /* HomeView.tsx */,
@@ -138,6 +218,64 @@
 				F6D7A5E12F934C36002C716C /* Info.plist */,
 			);
 			path = filmManngerDemoUITests;
+			sourceTree = "<group>";
+		};
+		F6DA72CC2F935E440035EEF7 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				F6DA73122F939DF10035EEF7 /* BundleImageLoader.swift */,
+				F6DA72DA2F939B950035EEF7 /* Photo.swift */,
+				F6DA72CB2F935E440035EEF7 /* Roll.swift */,
+				F6DA73142F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_1.jpg */,
+				F6DA73152F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_2.jpg */,
+				F6DA73162F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_3.jpg */,
+				F6DA73172F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_4.jpg */,
+				F6DA73182F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_5.jpg */,
+				F6DA73192F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_6.jpg */,
+				F6DA731A2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_7.jpg */,
+				F6DA731B2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_8.jpg */,
+				F6DA731C2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_9.jpg */,
+				F6DA731D2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_10.jpg */,
+				F6DA731E2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_11.jpg */,
+				F6DA731F2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_12.jpg */,
+				F6DA73202F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_13.jpg */,
+				F6DA73212F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_14.jpg */,
+				F6DA73222F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_15.jpg */,
+				F6DA73232F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_16.jpg */,
+				F6DA73242F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_17.jpg */,
+				F6DA73252F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_18.jpg */,
+				F6DA73262F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_19.jpg */,
+				F6DA73272F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_20.jpg */,
+				F6DA73282F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_21.jpg */,
+				F6DA73292F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_22.jpg */,
+				F6DA732A2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_23.jpg */,
+				F6DA732B2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_24.jpg */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		F6DA72CE2F935E440035EEF7 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				F6DA72CD2F935E440035EEF7 /* HomeViewController.swift */,
+				F6DA72E02F939BD60035EEF7 /* RollDetailViewController.swift */,
+				F6DA73442F93A4260035EEF7 /* ContactSheetViewController.swift */,
+				F6DA73462F93A44B0035EEF7 /* DrawingOverlayView.swift */,
+				F6DA73472F93A44B0035EEF7 /* FilmStrip135View.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		F6DA72D22F935E440035EEF7 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				F6DA72DC2F939BAE0035EEF7 /* PhotoCell.swift */,
+				F6DA72DD2F939BAE0035EEF7 /* RollDetailHeaderView.swift */,
+				F6DA72CF2F935E440035EEF7 /* AppLogoView.swift */,
+				F6DA72D02F935E440035EEF7 /* CanisterView.swift */,
+				F6DA72D12F935E440035EEF7 /* SketchButton.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -250,6 +388,30 @@
 				F6D7A5C52F934C34002C716C /* Main.storyboard in Resources */,
 				F6D7A5F62F935492002C716C /* AppLogo.tsx in Resources */,
 				F6D7A5F42F935492002C716C /* SketchButton.tsx in Resources */,
+				F6DA732C2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_24.jpg in Resources */,
+				F6DA732D2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_7.jpg in Resources */,
+				F6DA732E2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_20.jpg in Resources */,
+				F6DA732F2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_21.jpg in Resources */,
+				F6DA73302F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_9.jpg in Resources */,
+				F6DA73312F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_19.jpg in Resources */,
+				F6DA73322F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_23.jpg in Resources */,
+				F6DA73332F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_17.jpg in Resources */,
+				F6DA73342F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_2.jpg in Resources */,
+				F6DA73352F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_5.jpg in Resources */,
+				F6DA73362F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_6.jpg in Resources */,
+				F6DA73372F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_8.jpg in Resources */,
+				F6DA73382F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_3.jpg in Resources */,
+				F6DA73392F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_1.jpg in Resources */,
+				F6DA733A2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_12.jpg in Resources */,
+				F6DA733B2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_13.jpg in Resources */,
+				F6DA733C2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_11.jpg in Resources */,
+				F6DA733D2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_16.jpg in Resources */,
+				F6DA733E2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_10.jpg in Resources */,
+				F6DA733F2F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_15.jpg in Resources */,
+				F6DA73402F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_14.jpg in Resources */,
+				F6DA73412F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_18.jpg in Resources */,
+				F6DA73422F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_4.jpg in Resources */,
+				F6DA73432F939E4E0035EEF7 /* 2204_76_00002967_奥林巴斯练手卷_22.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,8 +436,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F6DA73132F939DF10035EEF7 /* BundleImageLoader.swift in Sources */,
+				F6DA72D92F935ECE0035EEF7 /* Theme.swift in Sources */,
+				F6DA73452F93A4260035EEF7 /* ContactSheetViewController.swift in Sources */,
 				F6D7A5C22F934C34002C716C /* ViewController.swift in Sources */,
+				F6DA72E12F939BD60035EEF7 /* RollDetailViewController.swift in Sources */,
 				F6D7A5BE2F934C34002C716C /* AppDelegate.swift in Sources */,
+				F6DA72D32F935E440035EEF7 /* Roll.swift in Sources */,
+				F6DA72DB2F939B950035EEF7 /* Photo.swift in Sources */,
+				F6DA72DE2F939BAE0035EEF7 /* RollDetailHeaderView.swift in Sources */,
+				F6DA72DF2F939BAE0035EEF7 /* PhotoCell.swift in Sources */,
+				F6DA72D42F935E440035EEF7 /* SketchButton.swift in Sources */,
+				F6DA73482F93A44B0035EEF7 /* DrawingOverlayView.swift in Sources */,
+				F6DA73492F93A44B0035EEF7 /* FilmStrip135View.swift in Sources */,
+				F6DA72D52F935E440035EEF7 /* AppLogoView.swift in Sources */,
+				F6DA72D62F935E440035EEF7 /* CanisterView.swift in Sources */,
+				F6DA72D72F935E440035EEF7 /* HomeViewController.swift in Sources */,
 				F6D7A5C02F934C34002C716C /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -452,15 +628,16 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 5HBZKTVHGQ;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = filmManngerDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.404Music.filmManngerDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.404Music.filmManagerDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -471,15 +648,16 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 5HBZKTVHGQ;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = filmManngerDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.404Music.filmManngerDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.404Music.filmManagerDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
